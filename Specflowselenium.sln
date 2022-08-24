@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Specflowselenium", "Specflowselenium\Specflowselenium.csproj", "{2E348318-DA7B-49A1-8EDB-2805B89B448C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POM", "POM\POM.csproj", "{9EE48EBD-79B4-4DE7-88AE-958359DAA1F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E348318-DA7B-49A1-8EDB-2805B89B448C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E348318-DA7B-49A1-8EDB-2805B89B448C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E348318-DA7B-49A1-8EDB-2805B89B448C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E348318-DA7B-49A1-8EDB-2805B89B448C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EE48EBD-79B4-4DE7-88AE-958359DAA1F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EE48EBD-79B4-4DE7-88AE-958359DAA1F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EE48EBD-79B4-4DE7-88AE-958359DAA1F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EE48EBD-79B4-4DE7-88AE-958359DAA1F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3616CF4F-B5F0-431D-A089-B948F0F89C1E}
+	EndGlobalSection
+EndGlobal
